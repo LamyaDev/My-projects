@@ -1,15 +1,3 @@
-<h2>My Projects</h2>
-<ul>
-  <li>
-    <a href="https://github.com/LamyaDev/us-states-guessing-game"><strong>U.S. States Guessing Game</strong></a>
-    — An interactive Python game for guessing all 50 U.S. states using Turtle and Pandas.
-  </li>
-  <li>
-    <a href="https://github.com/LamyaDev/lamyaAIproject"><strong>Sentiment Analyzer</strong></a>
-    — A Python application that analyzes text sentiment using TextBlob and Gradio.
-  </li>
-  <li>
-    <a href="https://github.com/LamyaDev/sales-data-analyzer"><strong>Sales Data Analyzer</strong></a>
-    — A Python project for analyzing sales data using core Python data structures and functions.
-  </li>
-</ul>
+<div align="center">
+ My Projects
+<br> <a href="https://github.com/LamyaDev/us-states-guessing-game"> <img src="https://img.shields.io/badge/U.S.%20States%20Guessing%20Game-4A90E2?style=for-the-badge" alt="U.S. States Guessing Game"> </a> <p> An interactive Python game for guessing all 50 U.S. states using Turtle and Pandas. </p> <br> <a href="https://github.com/LamyaDev/lamyaAIproject"> <img src="https://img.shields.io/badge/Sentiment%20Analyzer-9B59B6?style=for-the-badge" alt="Sentiment Analyzer"> </a> <p> A Python application that analyzes text sentiment using TextBlob and Gradio. </p> <br> <a href="https://github.com/LamyaDev/sales-data-analyzer"> <img src="https://img.shields.io/badge/Sales%20Data%20Analyzer-27AE60?style=for-the-badge" alt="Sales Data Analyzer"> </a> <p> A Python project for analyzing sales data using core Python data structures and functions. </p> <br> <a href="https://github.com/LamyaDev/Password-Manager-Python-Tkinter"> <img src="https://img.shields.io/badge/Password%20Manager-2C3E50?style=for-the-badge" alt="Password Manager"> </a> <p> A desktop password manager built with Python and Tkinter, featuring random password generation, clipboard copying, and local data storage. </p> </div>
